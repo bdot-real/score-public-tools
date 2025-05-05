@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Score Tracking
- * Plugin URI:  https://github.com/3halveslabs/score-tracking
+ * Plugin URI:  https://github.com/bdot-real/score-public-tools/tree/main/wordpress/score-tracking
  * Description: Tracks user activity (pageviews, clicks, forms, scroll depth, videos) and sends payloads to a SCORE endpoint.
  * Version:     1.0.0
  * Author:      3 Halves Labs
